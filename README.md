@@ -44,19 +44,15 @@ git clone https://github.com/soloking44/tours-and-online-travel-booking-website-
 
 cd tours-and-online-travel-booking-website- Ensure you have a local server environment set up with PHP installed.
 
-visit any  web browser of your choice and type http://lilytravelblog.netlify.app/ view the application.
+visit any web browser of your choice and type http://lilytravelblog.netlify.app/ view the application.
 
 Technologies Used
 
-
 HTML: For structuring web pages.
-
 
 CSS: For styling web pages.
 
-
 JavaScript: For interactivity and API calls.
-
 
 Bootstrap: For responsive design and pre-built components.
 
@@ -69,3 +65,19 @@ Fork the repository and create your branch:
 git checkout -b feature/your-feature-name Commit your changes and push to your branch:
 
 git commit -m "Add your feature description" git push origin feature/your-feature-name Submit a pull request detailing your changes and the problem is solved.
+
+License
+
+No licenses available.
+
+Team Members:
+
+Name: Asakwonye Collins Onyekachi
+
+https://www.linkedin.com/in/collins-kachi-a65a7a76/
+
+https://github.com/soloking44/
+
+https://x.com/Gospel17263962
+
+https://github.com/soloking44/tours-and-online-travel-booking-website-
