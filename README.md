@@ -34,6 +34,10 @@ Booking Form: Users can fill out a booking form to reserve tours and flight tick
 
 Search and Filter: Users can search for tours, flight tickets using various filters such as destination, date, and price range.
 
+The back-end processes requests and manages business logic.
+
+The database stores user data, travel plans, and recommendations.
+
 Services: users can see afordable hotels, asorted foods and drinks, safe guide, around the world, fastest travel and adventures.
 
 Responsive Design: Ensured the website is mobile-friendly using Bootstrap.
@@ -55,6 +59,19 @@ CSS: For styling web pages.
 JavaScript: For interactivity and API calls.
 
 Bootstrap: For responsive design and pre-built components.
+
+Back-End: PHP
+
+Database: MySQL
+
+Interaction Explanation:
+
+The front-end interacts with users and collects input.
+
+The back-end processes requests and manages business logic.
+
+The database stores user data, travel plans, and recommendations.
+
 
 Contributing:
 
