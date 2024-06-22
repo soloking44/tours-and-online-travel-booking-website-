@@ -42,13 +42,13 @@ Services: users can see afordable hotels, asorted foods and drinks, safe guide, 
 
 Responsive Design: Ensured the website is mobile-friendly using Bootstrap.
 
-Installation Tours and online travel booking websites installation process in https://lilytravelblog.netlify.app/
+Installation Tours and online travel booking websites installation process in https://tourtravelbooking.netlify.app/
 
 git clone https://github.com/soloking44/tours-and-online-travel-booking-website- Navigate to the project directory:
 
 cd tours-and-online-travel-booking-website- Ensure you have a local server environment set up with PHP installed.
 
-visit any web browser of your choice and type http://lilytravelblog.netlify.app/ view the application.
+visit any web browser of your choice and type http://tourtravelbooking.netlify.app/ view the application.
 
 Technologies Used
 
@@ -71,7 +71,6 @@ The front-end interacts with users and collects input.
 The back-end processes requests and manages business logic.
 
 The database stores user data, travel plans, and recommendations.
-
 
 Contributing:
 
